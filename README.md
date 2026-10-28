@@ -2,7 +2,7 @@
 
 Threat hunting exercise on Sysmon logs ingested into Elastic (Kibana Discover / KQL). The goal was to reconstruct how a victim host was infected by a fake invoice executable downloaded from Dropbox, and to document the attacker's behavior, IOCs and detection ideas.
 
-> **Data source:** _[add the name/link of the lab or dataset here]_. The raw data is not included in this repository.
+> **Data source:** https://github.com/M122/RedPill_Cybersecurity/blob/main/Sysmon_Elastic_Exercise.csv
 
 ## Summary
 
